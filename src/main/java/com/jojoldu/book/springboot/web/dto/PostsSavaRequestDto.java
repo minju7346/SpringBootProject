@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @Getter
 @NoArgsConstructor
 public class PostsSavaRequestDto {
+
     private String title;
     private String content;
     private String author;
