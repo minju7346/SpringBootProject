@@ -5,7 +5,9 @@
 
 **실행 화면 예시**
 
-<img>
+![image](https://user-images.githubusercontent.com/58619427/154612685-e8e0561f-f6e0-43c6-9a7e-6b243ad28488.png)
+
+
 
 
 <br/><br/><br/>
@@ -25,10 +27,10 @@
   
   
   
-## 기능
+## 구현 기능 ( CRUD + 구글 로그인 )
 
-- **to do task생성**
-- **to do list 출력**
-- **to do task 수정**
-- **to do task 삭제**
+- **To Do task생성**
+- **To Do list 출력**
+- **To Do task 수정**
+- **To Do task 삭제**
 - **구글 로그인**
