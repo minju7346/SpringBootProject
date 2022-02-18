@@ -1,16 +1,16 @@
 # Spring Boot를 이용한 To Do List 프로그램
 > 해당 프로젝트는 개인프로젝트로(2022.01.02~2022.02.15) 진행하였으며, CRUD기능을 구현하여 만든 task관리 프로그램입니다.
 
-<br>
+<br><br><br><br><br>
 
 **실행 화면 예시**
 
-![image](https://user-images.githubusercontent.com/58619427/154612685-e8e0561f-f6e0-43c6-9a7e-6b243ad28488.png)
+![image](https://user-images.githubusercontent.com/58619427/154613126-a8b43618-390f-4833-905c-708a77ec0bbf.png)
 
 
 
 
-<br/><br/><br/>
+
 
 ## 사용 스택
   
@@ -21,7 +21,7 @@
   
   
   
-  <br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/>
   
   
   
